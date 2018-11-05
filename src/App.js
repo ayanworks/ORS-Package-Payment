@@ -327,6 +327,7 @@ class App extends Component {
                 <div className="row">
                   <div className="col-xs-6 col-sm-12 col-md-6">
                     <h1 className="text-center">CH Admin</h1>
+                    <small><strong>Note:</strong> Please select Admin Address in Metamask.</small><br/><br/>
                     <strong>Admin Address:</strong> {this.state.orsTokenContractOwnerAddress} <br/>
                     <strong>ORS Balance:</strong> {this.state.orsTokenBalance} ORS<br/>
                     <strong>ETH Balance:</strong> {this.state.orsETHBalance} ETH
