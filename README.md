@@ -35,29 +35,29 @@ candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
 0xf17f52151ebef6c7334fad080c5704d77216b732 (CH Admin / Pay to ORS Address)
 
 # Contract Address on Rinkeby 
-ORSToken: 0xd33fab6740e525ed6f7376e2c419a719e3435019
-AcceptORS: 0x689c2eddc5c6329520e35e335501b6ee962ccf45
-AcceptETH: 0x3222421afaea99a22be81e06da8e8b710aa04e6a
+    ORSToken: 0xd33fab6740e525ed6f7376e2c419a719e3435019
+    AcceptORS: 0x689c2eddc5c6329520e35e335501b6ee962ccf45
+    AcceptETH: 0x3222421afaea99a22be81e06da8e8b710aa04e6a
 
 # Initial Minted ORSTokens available on
 0x627306090abab3a6e1400e9345bc60c78a8bef57 (Customer address) 
 
 # Steps to Buy Package using ORSTokens
-A) Approve Tokens
-    1) Select the "Customer address" in Metamask.
-    2) Select the "Pay using" "ORS" (Radio Button).
-    3) It will display amount to pay in "ORS" tokens.
-    4) In "Pay From" it will display the balance available on selected address (Customer Address).
-    5) Click on "Make Payment". 
-    6) Metamask popup will be shown. Click "Submit" to sign the transaction.
-    7) Transaction Hash will be displayed and after mining is completed its status will be updated.
-    8) Approved From Address and Tokens will be display in CH Admin Table for Transfer.
-B) Transfer Tokens
-    1) Select the "CH Admin's address" in Metamask.
-    2) Click on "Transfer" which will open Metamask popup.
-    3) Click on "Submit" to sign transaction and transfer the Tokens to CH Admin's address.
-    4) Transaction Hash will be displayed and after mining is completed its status will be updated      on top of table.
-    5) We will have to refresh the Screen to check the updated balance of "CH Admin Address".
+    A) Approve Tokens
+        1) Select the "Customer address" in Metamask.
+        2) Select the "Pay using" "ORS" (Radio Button).
+        3) It will display amount to pay in "ORS" tokens.
+        4) In "Pay From" it will display the balance available on selected address (Customer Address).
+        5) Click on "Make Payment". 
+        6) Metamask popup will be shown. Click "Submit" to sign the transaction.
+        7) Transaction Hash will be displayed and after mining is completed its status will be updated.
+        8) Approved From Address and Tokens will be display in CH Admin Table for Transfer.
+    B) Transfer Tokens
+        1) Select the "CH Admin's address" in Metamask.
+        2) Click on "Transfer" which will open Metamask popup.
+        3) Click on "Submit" to sign transaction and transfer the Tokens to CH Admin's address.
+        4) Transaction Hash will be displayed and after mining is completed its status will be updated      on top of table.
+        5) We will have to refresh the Screen to check the updated balance of "CH Admin Address".
 
 
 # Steps to Buy Package using Ether
